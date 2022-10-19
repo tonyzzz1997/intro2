@@ -4,3 +4,5 @@
 #### day la h4
 ##### day la h5
 ###### day la h6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
